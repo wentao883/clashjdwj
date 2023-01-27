@@ -1,4 +1,5 @@
 proxies:
+
   - {name: 馃嚫馃嚞 A----a鏂板姞鍧o, server: hnn.xiaohouzi.club, port: 47454, type: trojan, password: a3278882-3614-39cf-a3d6-faefa8c910ab, sni: dosig.xiaohouzi.club, skip-cert-verify: true}
   - {name: 馃嚭馃嚫 A----a缇庡浗do, server: hnn.xiaohouzi.club, port: 47454, type: trojan, password: a3278882-3614-39cf-a3d6-faefa8c910ab, sni: dosig.xiaohouzi.club, skip-cert-verify: true}
   - {name: 馃嚟馃嚢 A----a棣欐腐璐熻浇鍧囪　01, server: hnm.xiaohouzi.club, port: 27482, type: trojan, password: a3278882-3614-39cf-a3d6-faefa8c910ab, sni: hk-b.xiaohouzi.club, skip-cert-verify: true}
