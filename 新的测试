@@ -1,9 +1,989 @@
 proxies:
-  - {name: 🇭🇰 香港 1, server: 120.198.71.166, port: 561, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
-  - {name: 🇭🇰 香港 2, server: 116.162.120.34, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
-  - {name: 🇭🇰 香港 3, server: 125.94.215.234, port: 561, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
-  - {name: 🇭🇰 香港 4, server: 116.162.120.28, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
-  - {name: 🇭🇰 香港 5, server: 36.158.237.78, port: 561, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
-  - {name: 🇭🇰 香港 6, server: 58.153.132.96, port: 443, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
-  - {name: 🇭🇰 香港 7, server: 223.167.41.71, port: 568, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
-  - {name: 🇭🇰 香港 8, server: 116.162.120.24, port: 562, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
+- server: 94.242.58.55
+  port: 152
+  name: "\U0001F1F7\U0001F1FA 俄罗斯 Edge"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 46.3.80.226
+  port: 152
+  name: "\U0001F1E8\U0001F1E6 加拿大 Edge"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 216.185.57.229
+  port: 152
+  name: "\U0001F1EE\U0001F1F3 印度 Edge"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: cht1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1E8\U0001F1F3 台湾 CHT [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: cht2.qiangdong.xyz
+  port: 152
+  name: "\U0001F1E8\U0001F1F3 台湾 CHT [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: cht3.qiangdong.xyz
+  port: 152
+  name: "\U0001F1E8\U0001F1F3 台湾 CHT [03]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 103.156.184.21
+  port: 152
+  name: "\U0001F1E8\U0001F1F3 台湾 Edge"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hinet1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1E8\U0001F1F3 台湾 HINET [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hinet2.qiangdong.xyz
+  port: 152
+  name: "\U0001F1E8\U0001F1F3 台湾 HINET [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hinet3.qiangdong.xyz
+  port: 152
+  name: "\U0001F1E8\U0001F1F3 台湾 HINET [03]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hinet4.qiangdong.xyz
+  port: 152
+  name: "\U0001F1E8\U0001F1F3 台湾 HINET [04]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hinet5.qiangdong.xyz
+  port: 152
+  name: "\U0001F1E8\U0001F1F3 台湾 HINET [05]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.201
+  port: 252
+  name: "\U0001F1E8\U0001F1F3 台湾 IEPL [01] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.202
+  port: 252
+  name: "\U0001F1E8\U0001F1F3 台湾 IEPL [02] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: seed1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1E8\U0001F1F3 台湾 Seed"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 194.87.188.86
+  port: 152
+  name: "\U0001F1F9\U0001F1F7 土耳其 Edge"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: de1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1E9\U0001F1EA 德国 Edge"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.201
+  port: 752
+  name: "\U0001F1E9\U0001F1EA 德国 IEPL [01] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.202
+  port: 752
+  name: "\U0001F1E9\U0001F1EA 德国 IEPL [02] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: ali_sg1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1F8\U0001F1EC 新加坡 Aliyun [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: ali_sg2.qiangdong.xyz
+  port: 152
+  name: "\U0001F1F8\U0001F1EC 新加坡 Aliyun [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: ali_sg3.qiangdong.xyz
+  port: 152
+  name: "\U0001F1F8\U0001F1EC 新加坡 Aliyun [03]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: ali_sg4.qiangdong.xyz
+  port: 152
+  name: "\U0001F1F8\U0001F1EC 新加坡 Aliyun [04]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: sg1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1F8\U0001F1EC 新加坡 Edge [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: sg2.qiangdong.xyz
+  port: 152
+  name: "\U0001F1F8\U0001F1EC 新加坡 Edge [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.201
+  port: 352
+  name: "\U0001F1F8\U0001F1EC 新加坡 IEPL [01] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.202
+  port: 352
+  name: "\U0001F1F8\U0001F1EC 新加坡 IEPL [02] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.203
+  port: 25382
+  name: "\U0001F1F8\U0001F1EC 新加坡 IEPL [03]"
+  type: ss
+  cipher: aes-128-ctr
+  password: yk82CL
+  udp: true
+- server: 52.69.156.240
+  port: 152
+  name: "\U0001F1EF\U0001F1F5 日本 5G"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_jp1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1EF\U0001F1F5 日本 DMIT [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_jp2.qiangdong.xyz
+  port: 152
+  name: "\U0001F1EF\U0001F1F5 日本 DMIT [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_jp3.qiangdong.xyz
+  port: 152
+  name: "\U0001F1EF\U0001F1F5 日本 DMIT [03]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_jp4.qiangdong.xyz
+  port: 152
+  name: "\U0001F1EF\U0001F1F5 日本 DMIT [04]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_jp5.qiangdong.xyz
+  port: 152
+  name: "\U0001F1EE\U0001F1F3 日本 DMIT [05] -> 印度 Edge"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: jp1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1EF\U0001F1F5 日本 Edge [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: jp2.qiangdong.xyz
+  port: 152
+  name: "\U0001F1EF\U0001F1F5 日本 Edge [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 157.254.193.76
+  port: 152
+  name: "\U0001F1EF\U0001F1F5 日本 Edge [03]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.201
+  port: 452
+  name: "\U0001F1EF\U0001F1F5 日本 IEPL [01] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.202
+  port: 452
+  name: "\U0001F1EF\U0001F1F5 日本 IEPL [02] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 160.248.188.119
+  port: 152
+  name: "\U0001F1EF\U0001F1F5 日本 NTT"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: au1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1E6\U0001F1FA 澳大利亚 Edge"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 15.254.2.249
+  port: 152
+  name: "\U0001F1FA\U0001F1F8 美国 5G"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_us1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1FA\U0001F1F8 美国 DMIT [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_us2.qiangdong.xyz
+  port: 152
+  name: "\U0001F1FA\U0001F1F8 美国 DMIT [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_us3.qiangdong.xyz
+  port: 152
+  name: "\U0001F1FA\U0001F1F8 美国 DMIT [03]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_us4.qiangdong.xyz
+  port: 152
+  name: "\U0001F1FA\U0001F1F8 美国 DMIT [04]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 170.178.181.50
+  port: 152
+  name: "\U0001F1FA\U0001F1F8 美国 Edge [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 165.3.122.236
+  port: 152
+  name: "\U0001F1FA\U0001F1F8 美国 Edge [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: gia_us1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1FA\U0001F1F8 美国 GIA [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: gia_us2.qiangdong.xyz
+  port: 152
+  name: "\U0001F1FA\U0001F1F8 美国 GIA [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: gia_us3.qiangdong.xyz
+  port: 152
+  name: "\U0001F1FA\U0001F1F8 美国 GIA [03]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: gia_us4.qiangdong.xyz
+  port: 152
+  name: "\U0001F1FA\U0001F1F8 美国 GIA [04]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.201
+  port: 652
+  name: "\U0001F1FA\U0001F1F8 美国 IEPL [01] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.202
+  port: 652
+  name: "\U0001F1FA\U0001F1F8 美国 IEPL [02] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 13.40.36.244
+  port: 152
+  name: "\U0001F1EC\U0001F1E7 英国 5G"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 185.237.99.105
+  port: 152
+  name: "\U0001F1EC\U0001F1E7 英国 Edge"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.201
+  port: 852
+  name: "\U0001F1EC\U0001F1E7 英国 IEPL [01] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.202
+  port: 852
+  name: "\U0001F1EC\U0001F1E7 英国 IEPL [02] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: ph1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1F5\U0001F1ED 菲律宾 Edge"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 190.103.176.51
+  port: 152
+  name: "\U0001F1E6\U0001F1F7 阿根廷 Edge"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 3.35.78.82
+  port: 152
+  name: "\U0001F1F0\U0001F1F7 韩国 5G"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: kr1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1F0\U0001F1F7 韩国 Edge [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: kr2.qiangdong.xyz
+  port: 152
+  name: "\U0001F1F0\U0001F1F7 韩国 Edge [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.201
+  port: 552
+  name: "\U0001F1F0\U0001F1F7 韩国 IEPL [01] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.202
+  port: 552
+  name: "\U0001F1F0\U0001F1F7 韩国 IEPL [02] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: ali_hk1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 Aliyun [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: ali_hk2.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 Aliyun [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: ali_hk3.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 Aliyun [03]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: ali_hk4.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 Aliyun [04]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_hk1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 DMIT [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_hk2.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 DMIT [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_hk3.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 DMIT [03]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_hk4.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 DMIT [04]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: dmit_hk5.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 DMIT [05]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 103.167.135.57
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 Edge [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 103.167.135.58
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 Edge [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 103.167.135.59
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 Edge [03]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hkt1.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 HKT [01]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hkt2.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 HKT [02]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hkt3.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 HKT [03]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hkt4.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 HKT [04]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hkt5.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 HKT [05]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hkt6.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 HKT [06]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hkt7.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 HKT [07]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: hkt8.qiangdong.xyz
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 HKT [08]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.201
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 IEPL [01] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.202
+  port: 152
+  name: "\U0001F1ED\U0001F1F0 香港 IEPL [02] [Lite]"
+  type: ss
+  cipher: aes-128-gcm
+  password: VXPipi29nxMO
+  udp: false
+  plugin: obfs
+  plugin-opts:
+    mode: tls
+    host: 66d4414595.wns.windows.com
+- server: 120.233.29.196
+  port: 25382
+  name: "\U0001F1ED\U0001F1F0 香港 IEPL [03]"
+  type: ss
+  cipher: aes-128-ctr
+  password: yk82CL
+  udp: true
+- server: 120.233.29.197
+  port: 25382
+  name: "\U0001F1ED\U0001F1F0 香港 IEPL [04]"
+  type: ss
+  cipher: aes-128-ctr
+  password: yk82CL
+  udp: true
+- server: 120.233.29.198
+  port: 25382
+  name: "\U0001F1ED\U0001F1F0 香港 IEPL [05]"
+  type: ss
+  cipher: aes-128-ctr
+  password: yk82CL
+  udp: true
+- server: 120.233.29.199
+  port: 25382
+  name: "\U0001F1ED\U0001F1F0 香港 IEPL [06]"
+  type: ss
+  cipher: aes-128-ctr
+  password: yk82CL
+  udp: true
+- server: 120.233.29.200
+  port: 25382
+  name: "\U0001F1F9\U0001F1F7 香港 IEPL [07] -> 土耳其 Edge"
+  type: ss
+  cipher: aes-128-ctr
+  password: yk82CL
+  udp: true
