@@ -1,5 +1,5 @@
 proxies:
-  - {name: 🇭🇰 香港, server: 120.198.71.166, port: 561, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
+  - {name: 🇭🇰 香港 1, server: 120.198.71.166, port: 561, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
   - {name: 🇭🇰 香港 2, server: 116.162.120.34, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
   - {name: 🇭🇰 香港 3, server: 125.94.215.234, port: 561, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
   - {name: 🇭🇰 香港 4, server: 116.162.120.28, port: 560, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 47692:ai1456415, obfs-param: ""}
