@@ -1,647 +1,200 @@
 proxies:
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.226)-0
-  type: vmess
-  server: 103.21.244.226
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(173.245.49.111)-0
-  type: vmess
-  server: 173.245.49.111
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(172.67.174.51)-0
-  type: vmess
-  server: 172.67.174.51
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.227)-0
-  type: vmess
-  server: 103.21.244.227
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.219)-0
-  type: vmess
-  server: 103.21.244.219
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.187)-0
-  type: vmess
-  server: 103.21.244.187
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(172.67.190.145)-0
-  type: vmess
-  server: 172.67.190.145
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.142)-0
-  type: vmess
-  server: 103.21.244.142
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(172.67.189.142)-0
-  type: vmess
-  server: 172.67.189.142
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.122)-0
-  type: vmess
-  server: 103.21.244.122
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(173.245.49.55)-0
-  type: vmess
-  server: 173.245.49.55
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(173.245.49.5)-0
-  type: vmess
-  server: 173.245.49.5
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.107)-0
-  type: vmess
-  server: 103.21.244.107
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(173.245.49.238)-0
-  type: vmess
-  server: 173.245.49.238
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.70)-0
-  type: vmess
-  server: 103.21.244.70
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.238)-0
-  type: vmess
-  server: 103.21.244.238
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(172.67.217.89)-0
-  type: vmess
-  server: 172.67.217.89
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.249)-0
-  type: vmess
-  server: 103.21.244.249
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(172.67.156.140)-0
-  type: vmess
-  server: 172.67.156.140
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(172.64.157.26)-0
-  type: vmess
-  server: 172.64.157.26
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(173.245.49.10)-0
-  type: vmess
-  server: 173.245.49.10
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(172.67.115.249)-0
-  type: vmess
-  server: 172.67.115.249
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(172.67.27.213)-0
-  type: vmess
-  server: 172.67.27.213
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(173.245.49.156)-0
-  type: vmess
-  server: 173.245.49.156
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(173.245.49.57)-0
-  type: vmess
-  server: 173.245.49.57
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.161)-0
-  type: vmess
-  server: 103.21.244.161
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.248)-0
-  type: vmess
-  server: 103.21.244.248
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.91)-0
-  type: vmess
-  server: 103.21.244.91
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(172.67.1.182)-0
-  type: vmess
-  server: 172.67.1.182
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(173.245.49.190)-0
-  type: vmess
-  server: 173.245.49.190
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.113)-0
-  type: vmess
-  server: 103.21.244.113
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.180)-0
-  type: vmess
-  server: 103.21.244.180
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.127)-0
-  type: vmess
-  server: 103.21.244.127
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(173.245.49.23)-0
-  type: vmess
-  server: 173.245.49.23
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(172.67.141.197)-0
-  type: vmess
-  server: 172.67.141.197
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(173.245.49.113)-0
-  type: vmess
-  server: 173.245.49.113
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(172.67.200.107)-0
-  type: vmess
-  server: 172.67.200.107
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.82)-0
-  type: vmess
-  server: 103.21.244.82
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.19)-0
-  type: vmess
-  server: 103.21.244.19
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.169)-0
-  type: vmess
-  server: 103.21.244.169
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(173.245.49.141)-0
-  type: vmess
-  server: 173.245.49.141
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.15)-0
-  type: vmess
-  server: 103.21.244.15
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.230)-0
-  type: vmess
-  server: 103.21.244.230
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(172.64.156.232)-0
-  type: vmess
-  server: 172.64.156.232
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-ws(103.21.244.17)-0
-  type: vmess
-  server: 103.21.244.17
-  port: 8443
-  cipher: auto
-  tls: true
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /8cda48b3
-    headers:
-      Host: japan-8-238.shoptunnel.live
- -
-  name: japan-8-238.shoptunnel.live-tcp-1
-  type: vmess
-  server: japan-8-238.shoptunnel.live
-  port: 31990
-  cipher: auto
-  uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b
-  alterId: 0
-  network: tcp
-proxy-groups:
- -
-  name: Proxy
-  type: url-test
-  url: http://www.gstatic.com/generate_204
-  interval: 300
-  tolerance: 100
+  - {name: ">Beta|🇺🇳 FP|高速|TG@FProxies|0203|", server: 162.159.130.81, port: 443, type: vmess, uuid: ada93a22-54c1-449b-a15e-93dd4fc9d9bf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: g2.mmddlbr.com, network: ws, ws-opts: {path: /graphql}, udp: true}
+  - {name: ">Relay|🇨🇦 CA|高速|TG@FProxies|0203|", server: cdn-cn.nekocloud.cn, port: 19054, type: ssr, cipher: aes-128-cfb, password: iluulrzviik, protocol: auth_aes128_md5, obfs: plain, protocol-param: 225116:e8y0Vz, obfs-param: 9d70e225116.wns.windows.com, udp: true}
+  - {name: ">Relay|🇨🇦 CA|高速|TG@FProxies|0203| 2", server: cdn-cn.nekocloud.cn, port: 19073, type: ssr, cipher: aes-128-cfb, password: iluulrzviik, protocol: auth_aes128_md5, obfs: plain, protocol-param: 225116:e8y0Vz, obfs-param: 9d70e225116.wns.windows.com, udp: true}
+  - {name: ">Relay|🇨🇦 CA|高速|TG@FProxies|0203| 3", server: jafi21.jafiyun.world, port: 22021, type: vmess, uuid: e8175b59-9f72-3440-b2d0-5578f59861a3, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇨🇭 CH|高速|TG@FProxies|0203|", server: zfd-moblev2.gatknqh.cn, port: 16284, type: vmess, uuid: b8cce40a-6eba-3bcd-a255-005930040937, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇩🇪 DE|中速|TG@FProxies|0203|", server: ydsichuan01.bpzhuanfa.com, port: 40720, type: vmess, uuid: f6887e82-d2b5-4b5c-9c74-fcbf740c5e86, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ydsichuan01.bpzhuanfa.com, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇩🇪 DE|中速|TG@FProxies|0203| 2", server: ydsichuan01.bpzhuanfa.com, port: 40720, type: vmess, uuid: 3c1ab728-8308-4e00-a517-6193d5fd774b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ydsichuan01.bpzhuanfa.com, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇩🇪 DE|中速|TG@FProxies|0203| 3", server: 120.233.29.202, port: 752, type: ss, cipher: aes-128-gcm, password: VXPipi29nxMO, plugin: obfs, plugin-opts: {mode: tls, host: 66d4414595.wns.windows.com}, udp: true}
+  - {name: ">Relay|🇩🇪 DE|中速|TG@FProxies|0203| 4", server: ydsichuan01.bpzhuanfa.com, port: 40720, type: vmess, uuid: a0c82358-0b22-4c3b-b52e-65a6bd1aef1e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ydsichuan01.bpzhuanfa.com, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇩🇪 DE|中速|TG@FProxies|0203| 5", server: gzdx.jcnode.top, port: 49002, type: vmess, uuid: 2da62097-01ef-4126-af55-c6d0fc2be851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇩🇪 DE|中速|TG@FProxies|0203| 6", server: gzdx.jcnode.top, port: 49002, type: vmess, uuid: 00bbd7b2-7899-4d01-af33-be629ad087db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇩🇪 DE|中速|TG@FProxies|0203| 7", server: gzdx.jcnode.top, port: 49002, type: vmess, uuid: 4c259995-8098-4d32-82b8-a6362ca42c14, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇩🇪 DE|中速|TG@FProxies|0203| 8", server: gzdx.jcnode.top, port: 49002, type: vmess, uuid: 04957902-4f11-415e-a702-4f432eeeeb26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇩🇪 DE|中速|TG@FProxies|0203| 9", server: ydsichuan01.bpzhuanfa.com, port: 40720, type: vmess, uuid: 413d1fc2-a8db-4ea3-b94c-29578cec3d70, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ydsichuan01.bpzhuanfa.com, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇩🇪 DE|高速|TG@FProxies|0203|", server: z5.810823.xyz, port: 13049, type: ss, cipher: chacha20-ietf-poly1305, password: 0daca7da-aea5-4c2e-9a89-60ca1b691f87, udp: true}
+  - {name: ">Relay|🇩🇪 DE|高速|TG@FProxies|0203| 2", server: gzct.xn--dlq110j6ul.cc, port: 18995, type: vmess, uuid: 45af7474-1408-41a5-8724-9d7d4a7e3a61, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzct.xn--dlq110j6ul.cc, network: ws, ws-opts: {path: /, headers: {Host: gzct.xn--dlq110j6ul.cc}}, udp: true}
+  - {name: ">Relay|🇩🇪 DE|高速|TG@FProxies|0203| 3", server: gzct.xn--dlq110j6ul.cc, port: 18995, type: vmess, uuid: 62019e8f-b036-4aa8-9d8b-14233af59898, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzct.xn--dlq110j6ul.cc, network: ws, ws-opts: {path: /, headers: {Host: gzct.xn--dlq110j6ul.cc}}, udp: true}
+  - {name: ">Relay|🇩🇪 DE|高速|TG@FProxies|0203| 4", server: gxct.xn--dlq110j6ul.cc, port: 19065, type: vmess, uuid: 3c1ab728-8308-4e00-a517-6193d5fd774b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gxct.xn--dlq110j6ul.cc, network: ws, ws-opts: {path: /fly, headers: {Host: gxct.xn--dlq110j6ul.cc}}, udp: true}
+  - {name: ">Relay|🇩🇪 DE|高速|TG@FProxies|0203| 5", server: gxct.xn--dlq110j6ul.cc, port: 19065, type: vmess, uuid: d446ab18-4b36-4fc3-a765-f1774f2cdeba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gxct.xn--dlq110j6ul.cc, network: ws, ws-opts: {path: /fly, headers: {Host: gxct.xn--dlq110j6ul.cc}}, udp: true}
+  - {name: ">Relay|🇫🇷 FR|高速|TG@FProxies|0203|", server: qaz02.pp987qq.monster, port: 20509, type: ssr, cipher: rc4-md5, password: !<str> 8525265, protocol: auth_aes128_md5, obfs: plain, protocol-param: 12421:F706IK, obfs-param: "", udp: true}
+  - {name: ">Relay|🇬🇧 GB|中速|TG@FProxies|0203|", server: gzdx.jcnode.top, port: 49001, type: vmess, uuid: d446ab18-4b36-4fc3-a765-f1774f2cdeba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|中速|TG@FProxies|0203| 2", server: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 20227, type: trojan, password: 6097847b-7c35-4ec9-9c7b-c49b14a14abc, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇬🇧 GB|中速|TG@FProxies|0203| 3", server: scloud54.jafiyun.world, port: 22054, type: trojan, password: e8175b59-9f72-3440-b2d0-5578f59861a3, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇬🇧 GB|中速|TG@FProxies|0203| 4", server: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30040, type: vmess, uuid: 78cc4052-216f-401c-bf39-379dc506d38f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sh01.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203|", server: gddx.fosi.hk, port: 32415, type: vmess, uuid: 62019e8f-b036-4aa8-9d8b-14233af59898, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gddx.fosi.hk, network: ws, ws-opts: {path: /, headers: {Host: gddx.fosi.hk}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 2", server: jafi23.jafiyun.world, port: 22023, type: vmess, uuid: 550dc41d-de71-3753-a414-b9ff836d26e5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 3", server: iepl03.nnooddee.click, port: 8093, type: ssr, cipher: aes-256-cfb, password: LjtFzy, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 154799:YUMu4N, obfs-param: "", udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 4", server: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30040, type: vmess, uuid: d0dd21cf-8cf2-43a1-a9e7-f2790ac33dab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sh01.fastcloud.club}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 5", server: ydsichuan01.bpzhuanfa.com, port: 52304, type: vmess, uuid: 3523bd89-2e23-43a2-a0c8-1efbd7dd54a9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ydsichuan01.bpzhuanfa.com, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 6", server: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30041, type: vmess, uuid: bb20c730-7196-44e8-a01c-98a0d28c637e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sh01.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 7", server: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30040, type: vmess, uuid: f99022da-2e77-433c-90d5-d20394edcc38, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sh01.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 8", server: cdn-cn.nekocloud.cn, port: 19028, type: ssr, cipher: aes-128-cfb, password: iluulrzviik, protocol: auth_aes128_md5, obfs: plain, protocol-param: 225116:e8y0Vz, obfs-param: 9d70e225116.wns.windows.com, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 9", server: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 20227, type: trojan, password: c360e2ca-adfd-435d-bb4d-49744f56b790, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 10", server: ydsichuan01.bpzhuanfa.com, port: 52304, type: vmess, uuid: d993bb6f-523c-4546-8272-1a111ba6879f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ydsichuan01.bpzhuanfa.com, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 11", server: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 20226, type: trojan, password: 4b1ca5fd-c990-46ce-91a4-94d497ce93d4, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 12", server: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30040, type: vmess, uuid: a24bf2ca-0975-41b4-aa3f-333b3c289b9c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sh01.fastcloud.club}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 13", server: gddx.fosi.hk, port: 32415, type: vmess, uuid: fa673d92-9e7b-4219-85ed-d206b5826e30, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gddx.fosi.hk, network: ws, ws-opts: {path: /, headers: {Host: gddx.fosi.hk}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 14", server: gddx.fosi.hk, port: 32415, type: vmess, uuid: 3781a262-e300-4b19-94fd-a8815e17ed91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gddx.fosi.hk, network: ws, ws-opts: {path: /, headers: {Host: gddx.fosi.hk}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 15", server: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30016, type: vmess, uuid: f99022da-2e77-433c-90d5-d20394edcc38, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sh01.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 16", server: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30040, type: vmess, uuid: 8477da17-cad1-49c5-99c2-308b893f2596, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 17", server: scloud54.jafiyun.world, port: 22054, type: trojan, password: 2a4d6957-bcaa-34fd-8f79-4fd85ff5a91d, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 18", server: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30041, type: vmess, uuid: 34d0a027-d2f9-4b30-80ab-caa2b319b0dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sh01.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 19", server: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30016, type: vmess, uuid: 768d7096-890e-43b2-be1c-a53d351cee88, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sh01.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 20", server: jafi23.jafiyun.world, port: 22023, type: vmess, uuid: 97ebee72-0c92-3770-9dd9-fc7392c29dff, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 21", server: 111.23.252.214, port: 55602, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 22", server: gzdx.jcnode.top, port: 49001, type: vmess, uuid: 2da62097-01ef-4126-af55-c6d0fc2be851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 23", server: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30041, type: vmess, uuid: f99022da-2e77-433c-90d5-d20394edcc38, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sh01.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 24", server: gzct.xn--dlq110j6ul.cc, port: 46519, type: vmess, uuid: 62019e8f-b036-4aa8-9d8b-14233af59898, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzct.xn--dlq110j6ul.cc, network: ws, ws-opts: {path: /, headers: {Host: gzct.xn--dlq110j6ul.cc}}, udp: true}
+  - {name: ">Relay|🇬🇧 GB|高速|TG@FProxies|0203| 25", server: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 20227, type: trojan, password: 4b1ca5fd-c990-46ce-91a4-94d497ce93d4, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇭🇰 HK|中速|TG@FProxies|0203|", server: hzyd.abc111222.top, port: 25806, type: vmess, uuid: f2ec1022-b279-4399-9d12-bb7fcd29558f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: vujp1.abc111222.top, network: ws, ws-opts: {path: /v2ray, headers: {Host: hzyd.abc111222.top}}, udp: true}
+  - {name: ">Relay|🇭🇰 HK|中速|TG@FProxies|0203| 2", server: 120.233.15.58, port: 13328, type: trojan, password: 0f098bb2-9fad-3cc3-8acf-2a3268c1eb27, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇭🇰 HK|中速|TG@FProxies|0203| 3", server: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30023, type: vmess, uuid: bb20c730-7196-44e8-a01c-98a0d28c637e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gz.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇭🇰 HK|高速|TG@FProxies|0203|", server: 120.233.15.58, port: 17115, type: trojan, password: 0f098bb2-9fad-3cc3-8acf-2a3268c1eb27, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇭🇰 HK|高速|TG@FProxies|0203| 2", server: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30007, type: vmess, uuid: 8477da17-cad1-49c5-99c2-308b893f2596, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sh02.fastcloud.club}}, udp: true}
+  - {name: ">Relay|🇭🇰 HK|高速|TG@FProxies|0203| 3", server: hkt-detour-06.wallthefool.org, port: 15106, type: vmess, uuid: 82e1bd96-731a-446e-a859-a036cd2cbab8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇭🇰 HK|高速|TG@FProxies|0203| 4", server: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30007, type: vmess, uuid: a24bf2ca-0975-41b4-aa3f-333b3c289b9c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sh02.fastcloud.club}}, udp: true}
+  - {name: ">Relay|🇭🇰 HK|高速|TG@FProxies|0203| 5", server: gzdx0.170203.xyz, port: 16236, type: trojan, password: 25a2a77d-fc65-46a9-b529-0fd97454a1d2, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇭🇰 HK|高速|TG@FProxies|0203| 6", server: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30024, type: vmess, uuid: 768d7096-890e-43b2-be1c-a53d351cee88, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gz.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇭🇰 HK|高速|TG@FProxies|0203| 7", server: 1.pp987qq.monster, port: 48866, type: ssr, cipher: rc4-md5, password: !<str> 8525265, protocol: auth_aes128_md5, obfs: plain, protocol-param: 12421:F706IK, obfs-param: "", udp: true}
+  - {name: ">Relay|🇭🇰 HK|高速|TG@FProxies|0203| 8", server: 113.24.60.48, port: 46013, type: vmess, uuid: c9a56865-edcc-4989-a601-c42ced94c8f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: ">Relay|🇭🇰 HK|高速|TG@FProxies|0203| 9", server: sinagz01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30006, type: trojan, password: bb20c730-7196-44e8-a01c-98a0d28c637e, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇭🇰 HK|高速|TG@FProxies|0203| 10", server: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30024, type: vmess, uuid: 4b1ca5fd-c990-46ce-91a4-94d497ce93d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gz.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇮🇳 IN|高速|TG@FProxies|0203|", server: shct.xn--dlq110j6ul.cc, port: 33726, type: vmess, uuid: dbe09cbe-106e-4e0b-96e8-cb6a787e084e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: shct.xn--dlq110j6ul.cc, network: ws, ws-opts: {path: /, headers: {Host: shct.xn--dlq110j6ul.cc}}, udp: true}
+  - {name: ">Relay|🇮🇳 IN|高速|TG@FProxies|0203| 2", server: gzdx.jcnode.top, port: 49000, type: vmess, uuid: 413d1fc2-a8db-4ea3-b94c-29578cec3d70, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇮🇳 IN|高速|TG@FProxies|0203| 3", server: gddx.fosi.hk, port: 35024, type: vmess, uuid: 45af7474-1408-41a5-8724-9d7d4a7e3a61, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gddx.fosi.hk, network: ws, ws-opts: {path: /, headers: {Host: gddx.fosi.hk}}, udp: true}
+  - {name: ">Relay|🇮🇳 IN|高速|TG@FProxies|0203| 4", server: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30028, type: vmess, uuid: a24bf2ca-0975-41b4-aa3f-333b3c289b9c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sh01.fastcloud.club}}, udp: true}
+  - {name: ">Relay|🇮🇳 IN|高速|TG@FProxies|0203| 5", server: gzdx.jcnode.top, port: 49000, type: vmess, uuid: dd375b4a-b74f-4e62-9f8d-d92ec8635aba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇮🇳 IN|高速|TG@FProxies|0203| 6", server: gzdx.jcnode.top, port: 49000, type: vmess, uuid: 4c259995-8098-4d32-82b8-a6362ca42c14, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇮🇳 IN|高速|TG@FProxies|0203| 7", server: gzdx.jcnode.top, port: 49000, type: vmess, uuid: 0538ad96-4a76-4a27-a7c3-a1031f65ef1b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇮🇳 IN|高速|TG@FProxies|0203| 8", server: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30027, type: vmess, uuid: bb20c730-7196-44e8-a01c-98a0d28c637e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sh01.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇮🇳 IN|高速|TG@FProxies|0203| 9", server: gzdx.jcnode.top, port: 49000, type: vmess, uuid: e5dc68ef-9c1c-48e2-a2a5-20c424cba1ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇯🇵 JP|中速|TG@FProxies|0203|", server: scloud60.jafiyun.world, port: 22060, type: trojan, password: 97ebee72-0c92-3770-9dd9-fc7392c29dff, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇯🇵 JP|中速|TG@FProxies|0203| 2", server: jafi27.jafiyun.world, port: 23027, type: vmess, uuid: 97ebee72-0c92-3770-9dd9-fc7392c29dff, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇯🇵 JP|中速|TG@FProxies|0203| 3", server: tongzhi.838501.xyz, port: 13081, type: ss, cipher: chacha20-ietf-poly1305, password: 77d5c767-5002-4d60-9db1-07dd42e52be0, udp: true}
+  - {name: ">Relay|🇯🇵 JP|中速|TG@FProxies|0203| 4", server: 27.185.204.53, port: 19244, type: trojan, password: 095744ab-ee1c-3e95-8340-4e3228939662, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇯🇵 JP|中速|TG@FProxies|0203| 5", server: jafi27.jafiyun.world, port: 23027, type: vmess, uuid: e8175b59-9f72-3440-b2d0-5578f59861a3, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇯🇵 JP|高速|TG@FProxies|0203|", server: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30055, type: trojan, password: 768d7096-890e-43b2-be1c-a53d351cee88, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇯🇵 JP|高速|TG@FProxies|0203| 2", server: zfd-unicom.gatknqh.cn, port: 16120, type: vmess, uuid: b8cce40a-6eba-3bcd-a255-005930040937, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇯🇵 JP|高速|TG@FProxies|0203| 3", server: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30045, type: vmess, uuid: bb20c730-7196-44e8-a01c-98a0d28c637e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sh02.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash02.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇯🇵 JP|高速|TG@FProxies|0203| 4", server: jb04.pp987qq.monster, port: 24235, type: ssr, cipher: rc4-md5, password: !<str> 8525265, protocol: auth_aes128_md5, obfs: plain, protocol-param: 12421:F706IK, obfs-param: "", udp: true}
+  - {name: ">Relay|🇯🇵 JP|高速|TG@FProxies|0203| 5", server: jafi27.jafiyun.world, port: 23027, type: vmess, uuid: c6a1ac45-09ca-38d1-838c-087c8dd4c3e3, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇯🇵 JP|高速|TG@FProxies|0203| 6", server: 5.pp987qq.monster, port: 24235, type: ssr, cipher: rc4-md5, password: !<str> 8525265, protocol: auth_aes128_md5, obfs: plain, protocol-param: 12421:F706IK, obfs-param: "", udp: true}
+  - {name: ">Relay|🇯🇵 JP|高速|TG@FProxies|0203| 7", server: 19244tj.matrixxx888.com, port: 19244, type: trojan, password: 7c9244a7-1f52-352c-8f02-f5f0f5e694b6, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇯🇵 JP|高速|TG@FProxies|0203| 8", server: scloud60.jafiyun.world, port: 22060, type: trojan, password: c6a1ac45-09ca-38d1-838c-087c8dd4c3e3, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇯🇵 JP|高速|TG@FProxies|0203| 9", server: jafi27.jafiyun.world, port: 23027, type: vmess, uuid: 0ce8c1e3-2e81-3df9-b7d6-64aa1cf3e0e5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇰🇷 KR|中速|TG@FProxies|0203|", server: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30056, type: trojan, password: 768d7096-890e-43b2-be1c-a53d351cee88, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇰🇷 KR|高速|TG@FProxies|0203|", server: z4.810823.xyz, port: 13082, type: ss, cipher: chacha20-ietf-poly1305, password: 0daca7da-aea5-4c2e-9a89-60ca1b691f87, udp: true}
+  - {name: ">Relay|🇰🇷 KR|高速|TG@FProxies|0203| 2", server: scloud52.jafiyun.world, port: 22052, type: trojan, password: 97ebee72-0c92-3770-9dd9-fc7392c29dff, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇰🇷 KR|高速|TG@FProxies|0203| 3", server: scloud52.jafiyun.world, port: 22052, type: trojan, password: 2a4d6957-bcaa-34fd-8f79-4fd85ff5a91d, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇳🇱 NL|高速|TG@FProxies|0203|", server: 104.bgynd.xyz, port: 26104, type: vmess, uuid: 2509bac4-e641-3ff4-9082-c1595f8d0252, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇷🇺 RU|高速|TG@FProxies|0203|", server: 201201level2.unclemanco.com, port: 1549, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: ed7ff73644.download.windowsupdate.com}, udp: true}
+  - {name: ">Relay|🇸🇬 SG|中速|TG@FProxies|0203|", server: ydsichuan01.bpzhuanfa.com, port: 56860, type: vmess, uuid: cbb55ec7-9422-4d12-9875-f6b64a6d541c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ydsichuan01.bpzhuanfa.com, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇸🇬 SG|中速|TG@FProxies|0203| 2", server: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30035, type: vmess, uuid: 78cc4052-216f-401c-bf39-379dc506d38f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sh01.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇸🇬 SG|中速|TG@FProxies|0203| 3", server: ydsichuan01.bpzhuanfa.com, port: 56860, type: vmess, uuid: 91dc54a0-ee0f-470e-a3d8-72f675b843b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ydsichuan01.bpzhuanfa.com, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇸🇬 SG|中速|TG@FProxies|0203| 4", server: iplc-zhu.mielink-dns2.com, port: 664, type: ssr, cipher: rc4-md5, password: miejump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 84517:0d4926a0-9881-3609-b6ee-4716da84e59e, obfs-param: ajax.microsoft.com, udp: true}
+  - {name: ">Relay|🇸🇬 SG|中速|TG@FProxies|0203| 5", server: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 20222, type: trojan, password: aff60a1d-dffc-4a5e-a504-480f921712c5, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇸🇬 SG|中速|TG@FProxies|0203| 6", server: zfd-moble.gatknqh.cn, port: 16110, type: vmess, uuid: b8cce40a-6eba-3bcd-a255-005930040937, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203|", server: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30035, type: vmess, uuid: 34d0a027-d2f9-4b30-80ab-caa2b319b0dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sh01.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 2", server: gzdx.jcnode.top, port: 43000, type: vmess, uuid: 5885c762-f7e4-45db-923e-db6bc820c387, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 3", server: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 20223, type: trojan, password: 8477da17-cad1-49c5-99c2-308b893f2596, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 4", server: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 20223, type: trojan, password: 34d0a027-d2f9-4b30-80ab-caa2b319b0dc, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 5", server: ydsichuan01.bpzhuanfa.com, port: 56860, type: vmess, uuid: 00bbd7b2-7899-4d01-af33-be629ad087db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 6", server: gzdx.jcnode.top, port: 43001, type: vmess, uuid: ef2b2b02-5a49-400d-9a90-9f75380d758f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 7", server: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30035, type: vmess, uuid: 8477da17-cad1-49c5-99c2-308b893f2596, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 8", server: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30035, type: vmess, uuid: bb20c730-7196-44e8-a01c-98a0d28c637e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: sh01.fastcloud.club, network: ws, ws-opts: {path: /aceamedv, headers: {Host: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com}}, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 9", server: gzdx.jcnode.top, port: 43000, type: vmess, uuid: cbb55ec7-9422-4d12-9875-f6b64a6d541c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 10", server: 222.84.250.35, port: 19227, type: trojan, password: 095744ab-ee1c-3e95-8340-4e3228939662, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 11", server: gtm-sg-6wr31eq5o8g.gtm-i1d8.com, port: 45006, type: ss, cipher: aes-128-gcm, password: keyZ4S, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 12", server: 27.185.204.53, port: 19222, type: trojan, password: 095744ab-ee1c-3e95-8340-4e3228939662, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 13", server: gzdx.jcnode.top, port: 43000, type: vmess, uuid: f6b0b490-f59c-47b1-a6cf-f8824c63528c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇸🇬 SG|高速|TG@FProxies|0203| 14", server: sinagz.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 20223, type: trojan, password: d0dd21cf-8cf2-43a1-a9e7-f2790ac33dab, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇹🇼 TW|中速|TG@FProxies|0203|", server: iplc-shen.mielink-dns2.com, port: 667, type: ssr, cipher: rc4-md5, password: miejump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 84517:0d4926a0-9881-3609-b6ee-4716da84e59e, obfs-param: ajax.microsoft.com, udp: true}
+  - {name: ">Relay|🇹🇼 TW|中速|TG@FProxies|0203| 2", server: gxct.xn--dlq110j6ul.cc, port: 48395, type: vmess, uuid: 413d1fc2-a8db-4ea3-b94c-29578cec3d70, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gxct.xn--dlq110j6ul.cc, network: ws, ws-opts: {path: /fly, headers: {Host: gxct.xn--dlq110j6ul.cc}}, udp: true}
+  - {name: ">Relay|🇹🇼 TW|中速|TG@FProxies|0203| 3", server: fmtgw8mdc68x.b4s02m25.xyz, port: 13005, type: vmess, uuid: 077f1ef4-b2bd-37cb-900d-728cd84493b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: fmtgw8mdc68x.b4s02m25.xyz, udp: true}
+  - {name: ">Relay|🇹🇼 TW|高速|TG@FProxies|0203|", server: gy.jjxcloud.xyz, port: 62004, type: vmess, uuid: 8d6bd762-4387-3f5f-9f7e-1db6290d4b31, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gy.jjxcloud.xyz, network: ws, ws-opts: {path: /v2ray, headers: {Host: gy.jjxcloud.xyz}}, udp: true}
+  - {name: ">Relay|🇹🇼 TW|高速|TG@FProxies|0203| 2", server: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30002, type: trojan, password: 03044dda-cf48-4548-a840-e64fb1d6c605, sni: v2tw01.fuqiangren.com, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇹🇼 TW|高速|TG@FProxies|0203| 3", server: ggy-hn-a.underworlduu.in, port: 26513, type: ssr, cipher: chacha20-ietf, password: BQNIgKAW, protocol: auth_sha1_v4, obfs: http_simple, protocol-param: "", obfs-param: skydrive.wns.windows.com, udp: true}
+  - {name: ">Relay|🇹🇼 TW|高速|TG@FProxies|0203| 4", server: scloud29.jafiyun.world, port: 22029, type: trojan, password: 0ce8c1e3-2e81-3df9-b7d6-64aa1cf3e0e5, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇹🇼 TW|高速|TG@FProxies|0203| 5", server: zfd-moblev2.gatknqh.cn, port: 16129, type: vmess, uuid: b8cce40a-6eba-3bcd-a255-005930040937, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇹🇼 TW|高速|TG@FProxies|0203| 6", server: gzdx.jcnode.top, port: 42000, type: vmess, uuid: bd7dfc26-0186-4893-b012-0a40c9ec4147, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇹🇼 TW|高速|TG@FProxies|0203| 7", server: iepl1.nnooddee.click, port: 8051, type: ssr, cipher: aes-256-cfb, password: LjtFzy, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 154799:YUMu4N, obfs-param: "", udp: true}
+  - {name: ">Relay|🇹🇼 TW|高速|TG@FProxies|0203| 8", server: scloud33.jafiyun.world, port: 22033, type: vmess, uuid: 0ce8c1e3-2e81-3df9-b7d6-64aa1cf3e0e5, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇹🇼 TW|高速|TG@FProxies|0203| 9", server: gzdx.jcnode.top, port: 42000, type: vmess, uuid: 2a56c02b-d056-4f24-b52b-86076ab47a70, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇹🇼 TW|高速|TG@FProxies|0203| 10", server: shct.xn--dlq110j6ul.cc, port: 24201, type: vmess, uuid: e5dc68ef-9c1c-48e2-a2a5-20c424cba1ee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: shct.xn--dlq110j6ul.cc, network: ws, ws-opts: {path: /fly, headers: {Host: shct.xn--dlq110j6ul.cc}}, udp: true}
+  - {name: ">Relay|🇹🇼 TW|高速|TG@FProxies|0203| 11", server: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30003, type: trojan, password: 34d0a027-d2f9-4b30-80ab-caa2b319b0dc, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇹🇼 TW|高速|TG@FProxies|0203| 12", server: sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com, port: 30003, type: trojan, password: 6097847b-7c35-4ec9-9c7b-c49b14a14abc, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇺🇸 US|中速|TG@FProxies|0203|", server: 111.6.85.221, port: 36872, type: trojan, password: 0f098bb2-9fad-3cc3-8acf-2a3268c1eb27, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇺🇸 US|中速|TG@FProxies|0203| 2", server: hoh3276jw7hk.ulce4m0o.xyz, port: 32006, type: vmess, uuid: 077f1ef4-b2bd-37cb-900d-728cd84493b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇺🇸 US|中速|TG@FProxies|0203| 3", server: gyiepl.1aba.cn, port: 17834, type: vmess, uuid: e06b29a6-95c5-4ada-b73b-d32a75ddbe9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gyiepl.1aba.cn, network: ws, ws-opts: {path: /, headers: {Host: gyiepl.1aba.cn}}, udp: true}
+  - {name: ">Relay|🇺🇸 US|中速|TG@FProxies|0203| 4", server: 27.185.204.53, port: 19249, type: trojan, password: 095744ab-ee1c-3e95-8340-4e3228939662, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203|", server: jp.j.v3.2.kiki789.com, port: 39601, type: vmess, uuid: 6c521075-4c59-338b-95fa-161d2921e176, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /8858d045-66fe-441a-8d35-1507216fbb2f.live238.m3u8, headers: {Host: jp.j.v3.2.kiki789.com}}, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 2", server: scloud57.jafiyun.world, port: 22057, type: trojan, password: 97ebee72-0c92-3770-9dd9-fc7392c29dff, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 3", server: us01-2.bigmeyear.org, port: 20239, type: ss, cipher: aes-128-gcm, password: e6c95508-77cb-3ddc-93b8-55936ac4ea76, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 4", server: ydsichuan01.bpzhuanfa.com, port: 16603, type: vmess, uuid: d993bb6f-523c-4546-8272-1a111ba6879f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ydsichuan01.bpzhuanfa.com, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 5", server: gzdx.jcnode.top, port: 48001, type: vmess, uuid: 88e942c1-2538-4a72-93d6-62f12b2190c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 6", server: ydsichuan01.bpzhuanfa.com, port: 16603, type: vmess, uuid: 00bbd7b2-7899-4d01-af33-be629ad087db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 7", server: cdn-cn.nekocloud.cn, port: 19036, type: ssr, cipher: aes-128-cfb, password: iluulrzviik, protocol: auth_aes128_md5, obfs: plain, protocol-param: 225116:e8y0Vz, obfs-param: 9d70e225116.wns.windows.com, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 8", server: gzdx.jcnode.top, port: 48001, type: vmess, uuid: 413d1fc2-a8db-4ea3-b94c-29578cec3d70, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 9", server: ydsichuan01.bpzhuanfa.com, port: 16603, type: vmess, uuid: 04957902-4f11-415e-a702-4f432eeeeb26, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ydsichuan01.bpzhuanfa.com, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 10", server: gzdx.jcnode.top, port: 48001, type: vmess, uuid: d446ab18-4b36-4fc3-a765-f1774f2cdeba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gzdx.jcnode.top, network: ws, ws-opts: {path: /fly, headers: {Host: gzdx.jcnode.top}}, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 11", server: scloud56.jafiyun.world, port: 22056, type: trojan, password: e8175b59-9f72-3440-b2d0-5578f59861a3, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 12", server: shct.xn--dlq110j6ul.cc, port: 44195, type: vmess, uuid: 62019e8f-b036-4aa8-9d8b-14233af59898, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: shct.xn--dlq110j6ul.cc, network: ws, ws-opts: {path: /, headers: {Host: shct.xn--dlq110j6ul.cc}}, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 13", server: hainan.sfjsq001.info, port: 33210, type: vmess, uuid: bda6f11e-7c10-3786-bee3-9b39a4b85241, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 14", server: 119.wgong1.top, port: 52219, type: vmess, uuid: ec3722e2-10d5-304b-949e-7e6fd02c6156, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 15", server: ydsichuan01.bpzhuanfa.com, port: 16603, type: vmess, uuid: 88e942c1-2538-4a72-93d6-62f12b2190c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ydsichuan01.bpzhuanfa.com, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 16", server: cdn-cn.nekocloud.cn, port: 19068, type: ssr, cipher: aes-128-cfb, password: iluulrzviik, protocol: auth_aes128_md5, obfs: plain, protocol-param: 225116:e8y0Vz, obfs-param: 9d70e225116.wns.windows.com, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 17", server: cdn-cn.nekocloud.cn, port: 10001, type: ssr, cipher: aes-128-cfb, password: iluulrzviik, protocol: auth_aes128_md5, obfs: plain, protocol-param: 225116:e8y0Vz, obfs-param: 9d70e225116.wns.windows.com, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 18", server: 209.bgynd.xyz, port: 26209, type: vmess, uuid: 2509bac4-e641-3ff4-9082-c1595f8d0252, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 19", server: gyiepl.1aba.cn, port: 17834, type: vmess, uuid: 10a05fd7-f98f-436f-a62b-ff107a122b62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: gyiepl.1aba.cn, network: ws, ws-opts: {path: /, headers: {Host: gyiepl.1aba.cn}}, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 20", server: 9.pp987qq.monster, port: 24512, type: ssr, cipher: rc4-md5, password: !<str> 8525265, protocol: auth_aes128_md5, obfs: plain, protocol-param: 12421:F706IK, obfs-param: "", udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 21", server: 211.bgynd.xyz, port: 26211, type: vmess, uuid: 2509bac4-e641-3ff4-9082-c1595f8d0252, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 22", server: hainan.sfjsq001.info, port: 33208, type: vmess, uuid: bda6f11e-7c10-3786-bee3-9b39a4b85241, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">Relay|🇺🇸 US|高速|TG@FProxies|0203| 23", server: ydsichuan01.bpzhuanfa.com, port: 16603, type: vmess, uuid: cbb55ec7-9422-4d12-9875-f6b64a6d541c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: ydsichuan01.bpzhuanfa.com, network: ws, ws-opts: {path: /fly, headers: {Host: ydsichuan01.bpzhuanfa.com}}, udp: true}
+  - {name: ">Relay|🇻🇳 VN|高速|TG@FProxies|0203|", server: cc02.pp987qq.monster, port: 20082, type: ssr, cipher: rc4-md5, password: !<str> 8525265, protocol: auth_aes128_md5, obfs: plain, protocol-param: 12421:F706IK, obfs-param: "", udp: true}
+  - {name: ">🇦🇺 AU|中速|TG@FProxies|0203|", server: trxn.ballistics.top, port: 443, type: trojan, password: 0c355515-b1e5-4c0a-b843-e1defbe7c0fa, skip-cert-verify: true, udp: true}
+  - {name: ">🇦🇺 AU|高速|TG@FProxies|0203|", server: au01.170203.xyz, port: 23245, type: vmess, uuid: 25a2a77d-fc65-46a9-b529-0fd97454a1d2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: au01.170203.xyz}}, udp: true}
+  - {name: ">🇩🇪 DE|中速|TG@FProxies|0203|", server: m25.test19380.com, port: 80, type: vmess, uuid: 1ac445a6-26f4-48f2-c739-cf067a967ce5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: m25.test19380.com}}, udp: true}
+  - {name: ">🇩🇪 DE|高速|TG@FProxies|0203|", server: 172.64.150.145, port: 80, type: vmess, uuid: 1a02ef90-a4e6-4ca6-c5e6-9d2e3384c05f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: eubest.zikkcc.cf, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: ">🇩🇪 DE|高速|TG@FProxies|0203| 2", server: s3.techwithme.at, port: 27159, type: trojan, password: 18n2hUPs4RrOg3GXmp9_1YC6_vox2aGALDpLfMkZjmqgBL_o, skip-cert-verify: true, udp: true}
+  - {name: ">🇫🇷 FR|中速|TG@FProxies|0203|", server: de01-vmess.realssh.xyz, port: 443, type: vmess, uuid: 714b9ea1-4170-4743-8c74-a60f4d449ae3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de01-vmess.realssh.xyz, network: ws, ws-opts: {path: /vmess, headers: {Host: de01-vmess.realssh.xyz}}, udp: true}
+  - {name: ">🇬🇧 GB|高速|TG@FProxies|0203|", server: 194.146.49.166, port: 10000, type: vmess, uuid: 675df392-a25f-11ed-ad81-00163e7a9696, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vpnjantit}, udp: true}
+  - {name: ">🇭🇰 HK|高速|TG@FProxies|0203|", server: 8.210.236.45, port: 61228, type: vmess, uuid: 7e0ee5c7-46ff-42f8-ab7c-06d8227da454, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: http, http-opts: {method: GET, path: [/]}, udp: true}
+  - {name: ">🇭🇰 HK|高速|TG@FProxies|0203| 2", server: hk12.sanfen001.pics, port: 2001, type: vmess, uuid: e7d09c21-31af-4c4b-b9db-ad60d7497a65, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk1.sanfen001.pics, network: ws, ws-opts: {path: /zh-cn, headers: {Host: www.microsoft.com}}, udp: true}
+  - {name: ">🇭🇰 HK|高速|TG@FProxies|0203| 3", server: hk3.sanfen001.pics, port: 443, type: vmess, uuid: 2d506805-626a-4669-8c8b-23f383e371ca, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk3.sanfen001.pics, network: ws, ws-opts: {path: /zh-cn, headers: {Host: www.microsoft.com}}, udp: true}
+  - {name: ">🇯🇵 JP|中速|TG@FProxies|0203|", server: jp-amd2.018999.xyz, port: 443, type: vmess, uuid: a79f2127-3ba4-4af8-96d5-2db3a0e186a7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: jp-amd2.018999.xyz, network: ws, ws-opts: {path: /a79f2127-3ba4-4af8-96d5-2db3a0e186a7, headers: {Host: jp-amd2.018999.xyz}}, udp: true}
+  - {name: ">🇯🇵 JP|高速|TG@FProxies|0203|", server: jp2.sanfen001.pics, port: 2001, type: vmess, uuid: 3c34f264-6d9c-4234-b1da-3b84f183a931, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: aws.amazon.com, network: ws, ws-opts: {path: /cn, headers: {Host: jp2.sanfen001.pics}}, udp: true}
+  - {name: ">🇯🇵 JP|高速|TG@FProxies|0203| 2", server: 52.69.156.240, port: 152, type: ss, cipher: aes-128-gcm, password: VXPipi29nxMO, plugin: obfs, plugin-opts: {mode: tls, host: 66d4414595.wns.windows.com}, udp: true}
+  - {name: ">🇯🇵 JP|高速|TG@FProxies|0203| 3", server: jp04.170203.xyz, port: 23245, type: vmess, uuid: 1ebd8d93-725c-407a-bdd7-81cbed414eac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: jp04.170203.xyz}}, udp: true}
+  - {name: ">🇰🇷 KR|中速|TG@FProxies|0203|", server: 104.27.38.161, port: 80, type: vmess, uuid: 8381374e-3f2e-4dda-bc3a-8ee54bb240ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 12.123417.xyz, network: ws, ws-opts: {path: /ray12345}, udp: true}
+  - {name: ">🇰🇷 KR|高速|TG@FProxies|0203|", server: kr-02.cn2.run, port: 10000, type: ss, cipher: chacha20-ietf-poly1305, password: 0806a94d-b267-40f6-946d-a3a2849cb6a1, udp: true}
+  - {name: ">🇰🇷 KR|高速|TG@FProxies|0203| 2", server: 108.162.192.250, port: 80, type: vmess, uuid: 8381374e-3f2e-4dda-bc3a-8ee54bb240ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 12.123417.xyz, network: ws, ws-opts: {path: /ray12345}, udp: true}
+  - {name: ">🇰🇷 KR|高速|TG@FProxies|0203| 3", server: 3.38.104.222, port: 43632, type: vmess, uuid: 94bbf394-b75b-4dc2-9bb4-b5a2ce1e6c9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">🇰🇷 KR|高速|TG@FProxies|0203| 4", server: 3.38.104.222, port: 43632, type: vmess, uuid: fdeaf29b-fb7f-4838-8e1f-844cd241dc8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">🇰🇷 KR|高速|TG@FProxies|0203| 5", server: 104.16.249.45, port: 80, type: vmess, uuid: 8381374e-3f2e-4dda-bc3a-8ee54bb240ef, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 12.123417.xyz, network: ws, ws-opts: {path: /ray12345}, udp: true}
+  - {name: ">🇳🇱 NL|中速|TG@FProxies|0203|", server: 46.182.107.56, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/353021140201}, udp: true}
+  - {name: ">🇳🇱 NL|高速|TG@FProxies|0203|", server: 46.182.107.161, port: 443, type: vmess, uuid: 29a5d48e-24f1-48fd-a5e1-9a46cb31032f, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/353021140201}, udp: true}
+  - {name: ">🇳🇱 NL|高速|TG@FProxies|0203| 2", server: dd5.bestcloud.tk, port: 2053, type: vmess, uuid: dff63263-4499-4f43-a0ff-8f141576acb7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: nl1.mybestjj.com, network: ws, ws-opts: {path: /1654431, headers: {Host: dd5.bestcloud.tk}}, udp: true}
+  - {name: ">🇳🇱 NL|高速|TG@FProxies|0203| 3", server: dd1.bestcloud.tk, port: 2053, type: vmess, uuid: dff63263-4499-4f43-a0ff-8f141576acb7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: nl1.mybestjj.com, network: ws, ws-opts: {path: /1654431, headers: {Host: dd1.bestcloud.tk}}, udp: true}
+  - {name: ">🇸🇬 SG|中速|TG@FProxies|0203|", server: pyptom.cf, port: 443, type: vmess, uuid: 6fea1649-425b-4092-bf53-29792152c925, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg-lb.vhax.net, network: ws, ws-opts: {path: /sshkit/Ertusg86/635014638c264/, headers: {Host: pyptom.cf}}, udp: true}
+  - {name: ">🇸🇬 SG|中速|TG@FProxies|0203| 2", server: iplc-zhe.mielink-dns2.com, port: 664, type: ssr, cipher: rc4-md5, password: miejump.com, protocol: auth_aes128_md5, obfs: http_simple, protocol-param: 51063:265f092f-418b-30c9-a479-4800fd44dd19, obfs-param: "", udp: true}
+  - {name: ">🇸🇬 SG|中速|TG@FProxies|0203| 3", server: dynamic-sg1b.obfs.xyz, port: 443, type: vmess, uuid: 8b31388c-047a-4796-82ec-1dae3bbc589b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /worryfree, headers: {Host: mobilelegends.com}}, udp: true}
+  - {name: ">🇸🇬 SG|高速|TG@FProxies|0203|", server: ofsg.bwh088.xyz, port: 62011, type: trojan, password: 14c0784b-827a-40c9-a530-99097619916a, skip-cert-verify: true, udp: true}
+  - {name: ">🇸🇬 SG|高速|TG@FProxies|0203| 2", server: 146.19.196.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: eed1339c-dcbb-4bf0-9ae8-23cb8db4af7e, udp: true}
+  - {name: ">🇹🇼 TW|中速|TG@FProxies|0203|", server: kaizen-tw-6.paolu.co, port: 443, type: trojan, password: 265f092f-418b-30c9-a479-4800fd44dd19mielink, sni: paydiu.com, skip-cert-verify: true, udp: true}
+  - {name: ">🇹🇼 TW|高速|TG@FProxies|0203|", server: gzdx1.170203.xyz, port: 22951, type: trojan, password: 1ebd8d93-725c-407a-bdd7-81cbed414eac, skip-cert-verify: true, udp: true}
+  - {name: ">🇺🇸 US|中速|TG@FProxies|0203|", server: mncc.cf, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: aes-128-gcm, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /shirker, headers: {Host: mncc.cf}}, udp: true}
+  - {name: ">🇺🇸 US|中速|TG@FProxies|0203| 2", server: usv-4.openv2ray.com, port: 443, type: vmess, uuid: a40d34c6-b77c-4648-9210-3e8d2f4226b5, alterId: 16, cipher: auto, tls: true, skip-cert-verify: true, servername: tjrjyjr, network: ws, ws-opts: {path: "/opentunnel?user=opentunnel.net-ktyrtetj", headers: {Host: usv-4.openv2ray.com}}, udp: true}
+  - {name: ">🇺🇸 US|中速|TG@FProxies|0203| 3", server: 203.30.188.189, port: 443, type: vmess, uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: oplg1.zhujicn2.com, network: ws, ws-opts: {path: /5QNROSRV}, udp: true}
+  - {name: ">🇺🇸 US|中速|TG@FProxies|0203| 4", server: 172.67.247.182, port: 443, type: vmess, uuid: d27a96d1-6ade-4a00-9429-7f11b1ee2e49, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 004loiu.pages.dev, network: ws, ws-opts: {path: /d27a96d1-6ade-4a00-9429-7f11b1ee2e49-vmess}, udp: true}
+  - {name: ">🇺🇸 US|高速|TG@FProxies|0203|", server: 92.223.92.24, port: 443, type: vmess, uuid: 96b7efe4-3d1e-45ed-8575-86b4a7e1300f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: qiang.sangzb.xyz, network: ws, ws-opts: {path: /sangzb}, udp: true}
+  - {name: ">🇺🇸 US|高速|TG@FProxies|0203| 2", server: 194.33.39.10, port: 40002, type: vmess, uuid: bc687b40-75f6-3861-8993-30770642e81b, alterId: 4, cipher: auto, tls: false, skip-cert-verify: true, servername: tvb.com, network: ws, ws-opts: {path: /v2ray}, udp: true}
+  - {name: ">🇺🇸 US|高速|TG@FProxies|0203| 3", server: 38.91.102.123, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: ">🇺🇸 US|高速|TG@FProxies|0203| 4", server: 199.180.102.106, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/080331123005}, udp: true}
+  - {name: ">🇺🇸 US|高速|TG@FProxies|0203| 5", server: 188.114.96.46, port: 443, type: vmess, uuid: 9a18cbb1-81d2-4720-9f09-46ea276b6ddb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: zhuyong.hucloud-dns.xyz, network: ws, ws-opts: {path: /huhublog}, udp: true}
+  - {name: ">🇺🇸 US|高速|TG@FProxies|0203| 6", server: 35.172.190.231, port: 43632, type: vmess, uuid: 94bbf394-b75b-4dc2-9bb4-b5a2ce1e6c9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">🇺🇸 US|高速|TG@FProxies|0203| 7", server: bbeecc1.t1.glados-config.net, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: bbeecc1.dl.nintendo.net:27063}, udp: true}
+  - {name: ">🇺🇸 US|高速|TG@FProxies|0203| 8", server: 35.172.190.231, port: 43632, type: vmess, uuid: 526dd882-ec6b-4fce-b8c2-119d5af58418, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ">🇺🇸 US|高速|TG@FProxies|0203| 9", server: 172.67.199.34, port: 443, type: vmess, uuid: fd4fa030-b8f1-424b-a780-578dbb59f950, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us-v.sshmax.xyz, network: ws, ws-opts: {path: /vmess}, udp: true}
+  - {name: ">🇺🇸 US|高速|TG@FProxies|0203| 10", server: bbeecc1.db.glados-config.net, port: 2377, type: ss, cipher: chacha20-ietf-poly1305, password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv, plugin: obfs, plugin-opts: {mode: tls, host: bbeecc1.dl.nintendo.net:27063}, udp: true}|0203|"
