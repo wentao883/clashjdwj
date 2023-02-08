@@ -1,5 +1,7 @@
 proxies:
-  -{name: 🇨🇳 台湾01-到期用户请一定要联系微信续费, server: tw.xund8.xyz, port: 41002, type: ssr, cipher: aes-256-cfb, password: aLPVFv, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 5369:pDsAwk, obfs-param: 4e54b5369.microsoft.com}
+  - {name: 🏳️‍🌈 剩余流量：9.77TB, server: baozi.bgpnet.org, port: 10086, type: ss, cipher: chacha20-ietf, password: pDsAwk}
+  - {name: 🏳️‍🌈 过期时间：2023-03-14, server: baozi.bgpnet.org, port: 10086, type: ss, cipher: chacha20-ietf, password: pDsAwk}
+  - {name: 🇨🇳 台湾01-到期用户请一定要联系微信续费, server: tw.xund8.xyz, port: 41002, type: ssr, cipher: aes-256-cfb, password: aLPVFv, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 5369:pDsAwk, obfs-param: 4e54b5369.microsoft.com}
   - {name: 🇨🇳 台湾02-到期用户请一定要联系微信续费, server: tw.xund8.xyz, port: 41003, type: ssr, cipher: aes-256-cfb, password: aLPVFv, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 5369:pDsAwk, obfs-param: 4e54b5369.microsoft.com}
   - {name: 🇸🇬 新加坡01-到期用户请一定要联系微信续费, server: sg.xund8.xyz, port: 41004, type: ssr, cipher: aes-256-cfb, password: aLPVFv, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 5369:pDsAwk, obfs-param: 4e54b5369.microsoft.com}
   - {name: 🇸🇬 新加坡02-到期用户请一定要联系微信续费, server: sg.xund8.xyz, port: 41005, type: ssr, cipher: aes-256-cfb, password: aLPVFv, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 5369:pDsAwk, obfs-param: 4e54b5369.microsoft.com}
