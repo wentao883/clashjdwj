@@ -1,5 +1,6 @@
 proxies:
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.226)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.226)-0
   type: vmess
   server: 103.21.244.226
   port: 8443
@@ -12,7 +13,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(173.245.49.111)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(173.245.49.111)-0
   type: vmess
   server: 173.245.49.111
   port: 8443
@@ -25,7 +27,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(172.67.174.51)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(172.67.174.51)-0
   type: vmess
   server: 172.67.174.51
   port: 8443
@@ -38,7 +41,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.227)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.227)-0
   type: vmess
   server: 103.21.244.227
   port: 8443
@@ -51,7 +55,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.219)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.219)-0
   type: vmess
   server: 103.21.244.219
   port: 8443
@@ -64,7 +69,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.187)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.187)-0
   type: vmess
   server: 103.21.244.187
   port: 8443
@@ -77,7 +83,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(172.67.190.145)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(172.67.190.145)-0
   type: vmess
   server: 172.67.190.145
   port: 8443
@@ -90,7 +97,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.142)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.142)-0
   type: vmess
   server: 103.21.244.142
   port: 8443
@@ -103,7 +111,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(172.67.189.142)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(172.67.189.142)-0
   type: vmess
   server: 172.67.189.142
   port: 8443
@@ -116,7 +125,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.122)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.122)-0
   type: vmess
   server: 103.21.244.122
   port: 8443
@@ -129,7 +139,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(173.245.49.55)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(173.245.49.55)-0
   type: vmess
   server: 173.245.49.55
   port: 8443
@@ -142,7 +153,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(173.245.49.5)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(173.245.49.5)-0
   type: vmess
   server: 173.245.49.5
   port: 8443
@@ -155,7 +167,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.107)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.107)-0
   type: vmess
   server: 103.21.244.107
   port: 8443
@@ -168,7 +181,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(173.245.49.238)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(173.245.49.238)-0
   type: vmess
   server: 173.245.49.238
   port: 8443
@@ -181,7 +195,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.70)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.70)-0
   type: vmess
   server: 103.21.244.70
   port: 8443
@@ -194,7 +209,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.238)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.238)-0
   type: vmess
   server: 103.21.244.238
   port: 8443
@@ -207,7 +223,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(172.67.217.89)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(172.67.217.89)-0
   type: vmess
   server: 172.67.217.89
   port: 8443
@@ -220,7 +237,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.249)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.249)-0
   type: vmess
   server: 103.21.244.249
   port: 8443
@@ -233,7 +251,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(172.67.156.140)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(172.67.156.140)-0
   type: vmess
   server: 172.67.156.140
   port: 8443
@@ -246,7 +265,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(172.64.157.26)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(172.64.157.26)-0
   type: vmess
   server: 172.64.157.26
   port: 8443
@@ -259,7 +279,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(173.245.49.10)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(173.245.49.10)-0
   type: vmess
   server: 173.245.49.10
   port: 8443
@@ -272,7 +293,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(172.67.115.249)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(172.67.115.249)-0
   type: vmess
   server: 172.67.115.249
   port: 8443
@@ -285,7 +307,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(172.67.27.213)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(172.67.27.213)-0
   type: vmess
   server: 172.67.27.213
   port: 8443
@@ -298,7 +321,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(173.245.49.156)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(173.245.49.156)-0
   type: vmess
   server: 173.245.49.156
   port: 8443
@@ -311,7 +335,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(173.245.49.57)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(173.245.49.57)-0
   type: vmess
   server: 173.245.49.57
   port: 8443
@@ -324,7 +349,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.161)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.161)-0
   type: vmess
   server: 103.21.244.161
   port: 8443
@@ -337,7 +363,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.248)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.248)-0
   type: vmess
   server: 103.21.244.248
   port: 8443
@@ -350,7 +377,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.91)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.91)-0
   type: vmess
   server: 103.21.244.91
   port: 8443
@@ -363,7 +391,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(172.67.1.182)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(172.67.1.182)-0
   type: vmess
   server: 172.67.1.182
   port: 8443
@@ -376,7 +405,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(173.245.49.190)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(173.245.49.190)-0
   type: vmess
   server: 173.245.49.190
   port: 8443
@@ -389,7 +419,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.113)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.113)-0
   type: vmess
   server: 103.21.244.113
   port: 8443
@@ -402,7 +433,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.180)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.180)-0
   type: vmess
   server: 103.21.244.180
   port: 8443
@@ -415,7 +447,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.127)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.127)-0
   type: vmess
   server: 103.21.244.127
   port: 8443
@@ -428,7 +461,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(173.245.49.23)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(173.245.49.23)-0
   type: vmess
   server: 173.245.49.23
   port: 8443
@@ -441,7 +475,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(172.67.141.197)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(172.67.141.197)-0
   type: vmess
   server: 172.67.141.197
   port: 8443
@@ -454,7 +489,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(173.245.49.113)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(173.245.49.113)-0
   type: vmess
   server: 173.245.49.113
   port: 8443
@@ -467,7 +503,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(172.67.200.107)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(172.67.200.107)-0
   type: vmess
   server: 172.67.200.107
   port: 8443
@@ -480,7 +517,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.82)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.82)-0
   type: vmess
   server: 103.21.244.82
   port: 8443
@@ -493,7 +531,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.19)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.19)-0
   type: vmess
   server: 103.21.244.19
   port: 8443
@@ -506,7 +545,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.169)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.169)-0
   type: vmess
   server: 103.21.244.169
   port: 8443
@@ -519,7 +559,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(173.245.49.141)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(173.245.49.141)-0
   type: vmess
   server: 173.245.49.141
   port: 8443
@@ -532,7 +573,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.15)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.15)-0
   type: vmess
   server: 103.21.244.15
   port: 8443
@@ -545,7 +587,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.230)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.230)-0
   type: vmess
   server: 103.21.244.230
   port: 8443
@@ -558,7 +601,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(172.64.156.232)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(172.64.156.232)-0
   type: vmess
   server: 172.64.156.232
   port: 8443
@@ -571,7 +615,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-ws(103.21.244.17)-0
+ -
+  name: jp-95-104.shoptunnel.live-ws(103.21.244.17)-0
   type: vmess
   server: 103.21.244.17
   port: 8443
@@ -584,7 +629,8 @@ proxies:
     path: /8cda48b3
     headers:
       Host: jp-95-104.shoptunnel.live
- -name: jp-95-104.shoptunnel.live-tcp-1
+ -
+  name: jp-95-104.shoptunnel.live-tcp-1
   type: vmess
   server: jp-95-104.shoptunnel.live
   port: 31990
@@ -593,7 +639,8 @@ proxies:
   alterId: 0
   network: tcp
 proxy-groups:
- -name: Proxy
+ -
+  name: Proxy
   type: url-test
   url: http://www.gstatic.com/generate_204
   interval: 300
